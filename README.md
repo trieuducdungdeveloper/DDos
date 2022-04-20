@@ -17,7 +17,7 @@ One star from you = more desire to continue updating Stanley
 # Setup
 ```sh
 git clone https://github.com/trieuducdungdeveloper/DDos
-cd tree
+cd DDOS
 sudo python3 installer.py
 ulimit -n 999999
 chmod +x *
